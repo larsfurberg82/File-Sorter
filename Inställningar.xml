@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Log>log.txt</Log>
+	<Directory>
+		<Name>Bilder</Name>
+		<Input>C:\Exempel\Downloads</Input>
+		<Output>C:\Exempel\Bilder</Output>
+		<Type>.jpg</Type>
+		<Type>.jpeg</Type>
+		<Type>.png</Type>
+	</Directory>
+	<Directory>
+		<Name>Textfiler</Name>
+		<Input>C:\Exempel\Downloads</Input>
+		<Output>C:\Exempel\Textfiler</Output>
+		<Type>.txt</Type>
+	</Directory>
+</Settings>
